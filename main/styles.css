@@ -75,6 +75,20 @@ button:active {
 
 
 
+/* MEDIA QUERY */
+
+@media only screen and (max-width: 600px) {
+    .container {
+        width: 80%;
+    }
+    .quote {
+        font-size: 22px;
+    }
+}
+
+
+
+
 
 
 /* Attribution section */
